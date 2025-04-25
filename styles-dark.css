@@ -1197,7 +1197,6 @@ transition: 0.3s ease;
 
  
 
-/*
 
 .neon-glow {
   color: #39ff14;
@@ -1269,13 +1268,13 @@ color: white;
 .cta-button:hover {
   background: #00a186;
   transform: scale(1.1);
-} */
+}
 
 
 
 
 
-/* 🟢 Base Styles */
+/* /* 🟢 Base Styles */
 .ai-footer {
   position: relative;
   background-color: #0e0e0e;
@@ -1386,3 +1385,4 @@ color: white;
   50% { box-shadow: 0 0 25px #00ffc3; }
   100% { box-shadow: 0 0 10px #00ffc3; }
 }
+ */
